@@ -9,7 +9,17 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - GitHub: https://github.com/RobertBoettcherSF
 - Activity Log: https://robertboettchersf.github.io/
 
+## Latest
+
+- [2026-11-05 — Diary starts](2026/11/05.md)
+- [2026-11-04 — Ada AI amplifier](2026/11/04.md)
+- [2026-11-02 — Acharya](2026/11/02.md)
+- [2026-10-31 — Par-delà le bien et le mal](2026/10/31.md)
+- [2026-10-30 — Four Marian Suno experiments](2026/10/30.md)
+
 ## Entries
+
+### 2020
 
 - [2020-11-26 — How the Steffelbauer was not robbed, Marriages are made in heaven, The pierced barrel, The Senator, and The Indian Hut](2020/11/26.md)
 - [2020-11-27 — The new teacher](2020/11/27.md)
@@ -17,6 +27,9 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - [2020-12-05 — Official report of the pastor to Eichengrün](2020/12/05.md)
 - [2020-12-20 — Letters to Friedrich Hölderlin and Pamphlets](2020/12/20.md)
 - [2020-12-28 — Carmentrans end and The tall Klas](2020/12/28.md)
+
+### 2021
+
 - [2021-01-09 — Dynamite on Board](2021/01/09.md)
 - [2021-01-11 — The strips of paper and The way through the air](2021/01/11.md)
 - [2021-03-20 — Of the voluntary servitude of man](2021/03/20.md)
@@ -87,6 +100,9 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - [2021-12-01 — リトルマン](2021/12/01.md)
 - [2021-12-03 — Peters moon ride](2021/12/03.md)
 - [2021-12-04 — Peters moon ride and 月へのリトルピーターズの旅](2021/12/04.md)
+
+### 2022
+
 - [2022-01-23 — El fin de un mundo](2022/01/23.md)
 - [2022-01-24 — El fin de un mundo](2022/01/24.md)
 - [2022-02-01 — La fin d'un monde](2022/02/01.md)
@@ -197,6 +213,9 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - [2022-09-20 — To be or not to be](2022/09/20.md)
 - [2022-09-21 — Selected fairy tales and To be or not to be](2022/09/21.md)
 - [2022-09-22 — Selected fairy tales](2022/09/22.md)
+
+### 2023
+
 - [2023-01-02 — The Rabbi of Bacherach and Thoughts and ideas](2023/01/02.md)
 - [2023-01-05 — El rabino de Bacherach and Pensamientos e ideas](2023/01/05.md)
 - [2023-01-06 — El rabino de Bacherach and Pensamientos e ideas](2023/01/06.md)
@@ -239,6 +258,9 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - [2023-08-26 — Antigone](2023/08/26.md)
 - [2023-08-27 — Antigone](2023/08/27.md)
 - [2023-08-31 — Antigona: Una historia de desafío y destino](2023/08/31.md)
+
+### 2026
+
 - [2026-02-08 — How could the world end? and La Colección Invisible](2026/02/08.md)
 - [2026-02-10 — The great moments of humanity](2026/02/10.md)
 - [2026-02-11 — Ambiente e mundo interior dos animais](2026/02/11.md)
