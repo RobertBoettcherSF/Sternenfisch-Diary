@@ -11,11 +11,11 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 
 ## Latest
 
-- [2026-11-05 — Diary starts](2026/11/05.md)
-- [2026-11-04 — Ada AI amplifier](2026/11/04.md)
-- [2026-11-02 — Acharya](2026/11/02.md)
-- [2026-10-31 — Par-delà le bien et le mal](2026/10/31.md)
-- [2026-10-30 — Four Marian Suno experiments](2026/10/30.md)
+- [2026-11-24 — ai-island](2026/11/24.md)
+- [2026-11-23 — Joseph Fouché (Oversatt): Portrett av et politisk menneske (Joseph Fouché: Portrait of a Political Man) and Omverden og indre verden hos dyrene (Oversatt): Biokybernetikk (The Environment and Inner World of Animals: Biocybernetics)](2026/11/23.md)
+- [2026-11-22 — ADA-Hood-Simulator](2026/11/22.md)
+- [2026-11-21 — bardo-visualization](2026/11/21.md)
+- [2026-11-20 — ada-density-explorer and ada-fractal-explorer](2026/11/20.md)
 
 ## Entries
 
@@ -305,9 +305,22 @@ Each day is one Markdown file, `YYYY/MM/DD.md`. Copy [Template/entry.md](Templat
 - [2026-10-29 — Spectrum analyzer and Colony4X](2026/10/29.md)
 - [2026-10-30 — Four Marian Suno experiments](2026/10/30.md)
 - [2026-10-31 — Par-delà le bien et le mal](2026/10/31.md)
-- [2026-11-02 — Acharya](2026/11/02.md)
+- [2026-11-02 — Acharya, Faust: The First Part of the Tragedy, and Fausto: Primera parte de la tragedia (Faust: The First Part of the Tragedy)](2026/11/02.md)
 - [2026-11-03 — Irlmaier simulation](2026/11/03.md)
 - [2026-11-04 — Ada AI amplifier](2026/11/04.md)
 - [2026-11-05 — Diary starts](2026/11/05.md)
+- [2026-11-06 — interactive-formulas, core-flight-ada, and eva-planner-ada](2026/11/06.md)
+- [2026-11-07 — wish-app-demo](2026/11/07.md)
+- [2026-11-08 — ada-technological-horizons](2026/11/08.md)
+- [2026-11-09 — Ada-Ark-Two-Simulator](2026/11/09.md)
+- [2026-11-10 — Aforismos sobre la sabiduría de la vida: Lo que uno es, lo que uno tiene y lo que uno representa (Aphorisms on the Wisdom of Life), El ocaso de los ídolos (Traducido): o cómo se filosofa con el martillo (Twilight of the Idols: or How to Philosophize with a Hammer), Hood-Simulator, Megacorp-Simulator, and ADA-Megacorp-Simulator](2026/11/10.md)
+- [2026-11-14 — holographic-principle and godel-escher-bach](2026/11/14.md)
+- [2026-11-16 — Aurora (Traducido): Pensamientos sobre los prejuicios morales (Dawn: Thoughts on Moral Prejudices) and Conhecimentos curativos (Traducido): Os escritos da abadessa Hildegarda sobre as causas e o tratamento das doenças (Healing Knowledge)](2026/11/16.md)
+- [2026-11-19 — poncelet](2026/11/19.md)
+- [2026-11-20 — ada-density-explorer and ada-fractal-explorer](2026/11/20.md)
+- [2026-11-21 — bardo-visualization](2026/11/21.md)
+- [2026-11-22 — ADA-Hood-Simulator](2026/11/22.md)
+- [2026-11-23 — Joseph Fouché (Oversatt): Portrett av et politisk menneske (Joseph Fouché: Portrait of a Political Man) and Omverden og indre verden hos dyrene (Oversatt): Biokybernetikk (The Environment and Inner World of Animals: Biocybernetics)](2026/11/23.md)
+- [2026-11-24 — ai-island](2026/11/24.md)
 
 LLM disclosure: a language model may help draft or edit an entry; Robert Boettcher decides what is published.
